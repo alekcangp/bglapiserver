@@ -16,9 +16,6 @@ BGLAPI can be used as a backend for wallets, block explorers, payment processing
 
 You can run BGLAPI as a self-hosted solution, or use a third-party public host.
 
-
-### Software is still under development, first release will be soon!
-
 ### Requirements
 
 * Python 3.3.3+
@@ -82,3 +79,5 @@ $ curl --request GET \
           "adjustedTimestamp": 1659986309}, 
  "time": 0.0062}
 ```
+
+Thanks [madnadyka](https://github.com/madnadyka) for support.
