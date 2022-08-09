@@ -43,6 +43,7 @@ handshake_timeout = 6
 log_level = debug
 api_log_level = debug
 api_endpoint_test_base_url = http://localhost:4455
+transaction_map_partitions = 1
 
 [OPTIONS]
 
