@@ -4,6 +4,8 @@
 
 ## BGLAPI Server for Testnet
 
+<img src="doc/screenapi.svg">
+
 ### Introduction
 
 BGLAPI Server is based on [BTCAPI Server](https://github.com/bitaps-com/btcapiserver)
