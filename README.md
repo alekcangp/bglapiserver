@@ -4,7 +4,7 @@
 
 ## BGLAPI Server for Testnet
 
-<img src="doc/screenapi.svg">
+<img src="doc/apibglnode.svg">
 
 ### Introduction
 
