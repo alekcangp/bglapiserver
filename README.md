@@ -26,6 +26,8 @@ You can run BGLAPI as a self-hosted solution, or use a third-party public host.
 * BGL Core 0.1.2+
 * Docker
 
+Note: Subscription for new transactions is requires that BGL node being compiled with ZeroMQ support.
+
 ### Installation
 
 Setup your configs in bglapiserver/config (files with “.template” save as with same filename without “.template")
