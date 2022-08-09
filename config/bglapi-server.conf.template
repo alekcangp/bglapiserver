@@ -7,9 +7,9 @@ client_threads = 70
 [CONNECTOR]
 
 zeromq = tcp://127.0.0.1:38900
-rpc = http://bitaps:testnetWfefeefsSWd2@127.0.0.1:38332
+rpc = http://bitaps:testnetWfefeefsSWd2@127.0.0.1:18332
 log_level = debug
-testnet = 0
+testnet = 1
 
 
 [SYNCHRONIZATION]
