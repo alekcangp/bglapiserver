@@ -64,7 +64,7 @@ Please see full [API documentation](https://github.com/bitaps-com/bglapiserver/t
 
 ### API examples
 
-API implementation is available at the endpoint https://api.bitaps.com/bgl/v1/blockchain
+API implementation is available at the endpoint https://api.bglnode.online/rest
 
 ##### Block information
 
